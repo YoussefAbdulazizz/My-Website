@@ -1,6 +1,8 @@
-h1{
-    color: maroon;
-    
+.title{
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
 }
 body{
     margin: 0;
