@@ -17,3 +17,6 @@ A simple form website created using HTML and CSS. The project focuses on form la
 - index.html
 - style.css
 - joe image.jpg
+
+## 📸 Screenshots
+![Project Screenshot](screenshot.png)
